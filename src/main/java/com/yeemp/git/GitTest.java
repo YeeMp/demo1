@@ -25,6 +25,7 @@ public class GitTest {
         System.out.println("hello merge yee4");
         System.out.println("github push test");
         System.out.println("github push test11");
+        System.out.println("github push rename");
 
     }
 }

@@ -17,7 +17,7 @@ public class GitTest {
         System.out.println("hello yee");
         System.out.println("hello yee1");
         System.out.println("hello yee2");
-        System.out.println("hello branch yee3");
-        System.out.println("hello branch yee4");
+        System.out.println("hello merge yee3");
+        System.out.println("hello merge yee4");
     }
 }

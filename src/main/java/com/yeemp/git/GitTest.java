@@ -16,5 +16,6 @@ public class GitTest {
     public static void main(String[] args) {      //快捷psvm
         System.out.println("hello yee");
         System.out.println("hello yee1");
+        System.out.println("hello yee2");
     }
 }

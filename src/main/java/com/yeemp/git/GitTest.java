@@ -15,5 +15,6 @@ import java.nio.file.StandardCopyOption;
 public class GitTest {
     public static void main(String[] args) {      //快捷psvm
         System.out.println("hello yee");
+        System.out.println("hello yee1");
     }
 }

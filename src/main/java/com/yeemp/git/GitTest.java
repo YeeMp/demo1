@@ -26,6 +26,6 @@ public class GitTest {
         System.out.println("github push test");
         System.out.println("github push test11");
         System.out.println("github push rename");
-        System.out.println("github pull test");
+        System.out.println("github pull test1");
     }
 }
